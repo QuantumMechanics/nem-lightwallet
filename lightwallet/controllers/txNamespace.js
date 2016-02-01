@@ -43,7 +43,7 @@ define([
                 'privatekey': '',
             };
             $scope.txNamespaceData = {
-                'rentalFeeSink': 'TAMESP-ACEWH4-MKFMBC-VFERDP-OOP4FK-7MTDJE-YP35',
+                'rentalFeeSink': 'NAMESP-ACEWH4-MKFMBC-VFERDP-OOP4FK-7MTBXD-PZZA',
                 'rentalFee': 0,
                 'namespaceName': '',
                 'namespaceParent': null,
